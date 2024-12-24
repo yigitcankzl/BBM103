@@ -1,1 +1,2 @@
-# hu_bbm103
+# BBM103
+Hacettepe University 2023-2024 Fall BBM103 Assignments
